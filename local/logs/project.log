@@ -1,0 +1,54 @@
+2017-10-24T21:16:24.774Z - normal: Load ~/.CocosCreator/settings.json
+2017-10-24T21:16:24.780Z - normal: checking language setting...
+2017-10-24T21:16:24.781Z - normal: Language: en
+2017-10-24T21:16:26.577Z - success: protocol editor-framework registered
+2017-10-24T21:16:26.577Z - success: protocol app registered
+2017-10-24T21:16:26.577Z - success: protocol theme registered
+2017-10-24T21:16:26.577Z - success: protocol profile registered
+2017-10-24T21:16:26.577Z - success: protocol packages registered
+2017-10-24T21:16:26.578Z - success: protocol unpack registerred
+2017-10-24T21:16:26.578Z - success: protocol disable-commonjs registerred
+2017-10-24T21:16:28.621Z - normal: connected!
+2017-10-24T21:16:28.659Z - normal: Check project C:\Users\Tipsu\Desktop\start_project
+2017-10-24T21:16:28.665Z - normal: Initializing Cocos2d
+2017-10-24T21:16:28.939Z - normal: Initializing Asset Database
+2017-10-24T21:16:28.972Z - success: protocol uuid registerred
+2017-10-24T21:16:28.973Z - success: protocol db registerred
+2017-10-24T21:16:28.973Z - success: protocol thumbnail registerred
+2017-10-24T21:16:28.973Z - normal: Loading editor/builtin packages
+2017-10-24T21:16:28.995Z - success: anysdk loaded
+2017-10-24T21:16:29.149Z - success: assets loaded
+2017-10-24T21:16:29.151Z - success: builder loaded
+2017-10-24T21:16:29.154Z - success: hierarchy loaded
+2017-10-24T21:16:29.156Z - success: inspector loaded
+2017-10-24T21:16:29.157Z - success: keystore loaded
+2017-10-24T21:16:29.160Z - success: node-library loaded
+2017-10-24T21:16:29.161Z - success: package-asset loaded
+2017-10-24T21:16:29.163Z - success: preferences loaded
+2017-10-24T21:16:29.164Z - success: project-exporter loaded
+2017-10-24T21:16:29.178Z - success: project-importer loaded
+2017-10-24T21:16:29.180Z - success: project-settings loaded
+2017-10-24T21:16:29.182Z - success: ui-kit loaded
+2017-10-24T21:16:29.183Z - success: ui-grid loaded
+2017-10-24T21:16:29.186Z - success: scene loaded
+2017-10-24T21:16:29.187Z - success: sprite-editor loaded
+2017-10-24T21:16:29.190Z - success: store loaded
+2017-10-24T21:16:29.194Z - success: timeline loaded
+2017-10-24T21:16:29.194Z - normal: Loading builtin packages
+2017-10-24T21:16:29.197Z - success: asset-db-debugger loaded
+2017-10-24T21:16:29.197Z - success: color-picker loaded
+2017-10-24T21:16:29.200Z - success: console loaded
+2017-10-24T21:16:29.202Z - success: package-manager loaded
+2017-10-24T21:16:29.285Z - success: sdkbox loaded
+2017-10-24T21:16:29.288Z - success: tester loaded
+2017-10-24T21:16:29.290Z - normal: last time update is in one day
+2017-10-24T21:16:29.292Z - success: ui-kit-preview-extra loaded
+2017-10-24T21:16:29.293Z - success: ui-kit-preview loaded
+2017-10-24T21:16:29.294Z - success: ui-tree loaded
+2017-10-24T21:16:30.323Z - normal: Initializing project C:\Users\Tipsu\Desktop\start_project
+2017-10-24T21:16:30.338Z - normal: Loading packages
+2017-10-24T21:16:30.351Z - normal: Watching packages
+2017-10-24T21:16:30.365Z - normal: Run Application
+2017-10-24T21:16:30.732Z - success: preview server running at http://localhost:7456
+2017-10-24T21:16:35.622Z - normal: 1.6.2
+2017-10-24T21:18:53.514Z - info: shutdown preview server
